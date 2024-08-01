@@ -1,6 +1,6 @@
 ## This is my GitHub profile README. There are many like it, but this one is mine.
 
-- 🔭 I'm currently working on a new Stata command
+- 🔭 I'm currently working on a new Stata command for cross-sectional inference in event studies: [csestudy](https://github.com/MalcolmWardlaw/csestudy)
 - 🌱 I’m currently learning how to run ethernet cables through lathe-and-plaster walls
 - 💬 Ask me about Thomas Hobbes and the salience of Leviathan in a modern world
 
