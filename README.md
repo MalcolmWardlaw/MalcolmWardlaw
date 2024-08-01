@@ -1,4 +1,8 @@
-## Hi there 👋
+## This is my GitHub profile README. There are many like it, but this one is mine.
+
+- 🔭 I'm currently working on a new Stata command
+- 🌱 I’m currently learning how to run ethernet cables through lathe-and-plaster walls
+- 💬 Ask me about Thomas Hobbes and the salience of Leviathan in a modern world
 
 <!--
 **MalcolmWardlaw/MalcolmWardlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
